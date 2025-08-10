@@ -4,11 +4,13 @@
 
 ## site
 
-https://sheriffnagy.github.io/my-project/
+https://github.com/sheriffnagy/my-project.git
 
+
+
+#### featutres
 
 ### View the optimal layout for the interface depending on their device's screen size
-
 
 ### See hover and focus states for all interactive elements on the page
 
