@@ -4,7 +4,7 @@
 
 ## site
 
-https://github.com/sheriffnagy/my-project.git
+
 
 
 ### View the optimal layout for the interface depending on their device's screen size
