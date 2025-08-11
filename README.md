@@ -4,8 +4,7 @@
 
 ## site
 
-https://github.com/sheriffnagy/my-project.git
-
+https://sheriffnagy.github.io/Results-summmary-compoonent/
 
 
 #### featutres
